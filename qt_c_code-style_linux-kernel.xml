@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE QtCreatorCodeStyle>
-<!-- Written by QtCreator 4.3.0, 2017-05-24T18:35:53. -->
+<!-- Written by QtCreator 4.3.0, 2017-09-04T10:30:17. -->
 <qtcreator>
  <data>
   <variable>CodeStyleData</variable>
@@ -35,6 +35,6 @@
  </data>
  <data>
   <variable>DisplayName</variable>
-  <value type="QString">Subsurface</value>
+  <value type="QString">Linux Kernel</value>
  </data>
 </qtcreator>
