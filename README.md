@@ -64,3 +64,13 @@ style chosen here will be the default formatter for code style. One can also
 set project specific code style formatter.
 
 The formatter for Eclipse CDT is based on an anonymous contribution.
+
+
+
+
+
+TODO
+
+    autoreconf --install
+    ./configure
+    make
